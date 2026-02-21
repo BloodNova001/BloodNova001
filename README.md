@@ -6,19 +6,19 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:ppriyansh001@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="www.linkedin.com/in/priyansh-patel-094ba8285">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/BloodNova001">
     <img src="https://img.shields.io/badge/GitHub-Projects-111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=BloodNova001&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
@@ -93,17 +93,6 @@ Designed a MIPS-like processor from scratch in Verilog.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🧩 Engineering Philosophy
 
@@ -113,6 +102,6 @@ Designed a MIPS-like processor from scratch in Verilog.
 
 ## 📫 Contact
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: your-linkedin
+* 📧 Email: [ppriyansh001@gmail.com](mailto:ppriyansh001@gmail.com)
+* 💼 LinkedIn: www.linkedin.com/in/priyansh-patel-094ba8285
 * 🎓 PDEU — Electronics & Communication Engineering
