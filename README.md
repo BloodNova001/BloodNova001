@@ -89,7 +89,6 @@ Designed a MIPS-like processor from scratch in Verilog.
 * Adding **Data Forwarding Unit**
 * Learning **Static Timing Analysis**
 * Exploring **OpenLane ASIC Flow**
-* Building a strong VLSI portfolio for MS applications
 
 ---
 
