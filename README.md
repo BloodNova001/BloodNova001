@@ -102,5 +102,5 @@ Designed a MIPS-like processor from scratch in Verilog.
 ## 📫 Contact
 
 * 📧 Email: [ppriyansh001@gmail.com](mailto:ppriyansh001@gmail.com)
-* 💼 LinkedIn: www.linkedin.com/in/priyansh-patel-094ba8285
+* 💼 LinkedIn: https://www.linkedin.com/in/priyansh-patel-094ba8285/
 * 🎓 PDEU — Electronics & Communication Engineering
