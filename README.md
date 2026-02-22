@@ -9,7 +9,7 @@
   <a href="mailto:ppriyansh001@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/priyansh-patel-094ba8285">
+  <a href="https://www.linkedin.com/in/priyansh-patel-094ba8285">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/BloodNova001">
